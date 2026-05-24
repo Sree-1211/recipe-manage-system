@@ -37,7 +37,7 @@ This project was developed as part of an academic course project.
 
 ## Team Members
 
-- Sreeshma K
+- SREESHMA K
 - JILSIYA ALI C
 - AYISHA DILSHA T V
 
